@@ -1,0 +1,6 @@
+C:\Users\johan\Desktop\C# Projects\BlockBuffs\BlockBuffs\obj\Debug\BlockBuffs.csproj.AssemblyReference.cache
+C:\Users\johan\Desktop\C# Projects\BlockBuffs\BlockBuffs\obj\Debug\BlockBuffs.csproj.CoreCompileInputs.cache
+C:\Users\johan\Desktop\C# Projects\BlockBuffs\BlockBuffs\obj\Debug\BlockBuffs.dll
+C:\Users\johan\Desktop\C# Projects\BlockBuffs\BlockBuffs\obj\Debug\BlockBuffs.pdb
+C:\Users\johan\Desktop\C# Projects\BlockBuffs\BlockBuffs\BlockBuffs.dll
+C:\Users\johan\Desktop\C# Projects\BlockBuffs\BlockBuffs\BlockBuffs.pdb

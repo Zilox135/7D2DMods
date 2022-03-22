@@ -1,0 +1,6 @@
+C:\Users\johan\Desktop\C# Projects\NeonSigns\NeonSigns\obj\Debug\NeonSigns.csproj.AssemblyReference.cache
+C:\Users\johan\Desktop\C# Projects\NeonSigns\NeonSigns\obj\Debug\NeonSigns.csproj.CoreCompileInputs.cache
+C:\Users\johan\Desktop\C# Projects\NeonSigns\NeonSigns\obj\Debug\NeonSigns.dll
+C:\Users\johan\Desktop\C# Projects\NeonSigns\NeonSigns\obj\Debug\NeonSigns.pdb
+C:\Users\johan\Desktop\C# Projects\NeonSigns\NeonSigns\NeonSigns.dll
+C:\Users\johan\Desktop\C# Projects\NeonSigns\NeonSigns\NeonSigns.pdb
