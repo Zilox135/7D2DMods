@@ -1,6 +1,0 @@
-C:\Users\johan\Desktop\C# Projects\WorkingTrashCan\WorkingTrashCan\obj\Debug\WorkingTrashCan.csproj.AssemblyReference.cache
-C:\Users\johan\Desktop\C# Projects\WorkingTrashCan\WorkingTrashCan\obj\Debug\WorkingTrashCan.csproj.CoreCompileInputs.cache
-C:\Users\johan\Desktop\C# Projects\WorkingTrashCan\WorkingTrashCan\obj\Debug\WorkingTrashCan.dll
-C:\Users\johan\Desktop\C# Projects\WorkingTrashCan\WorkingTrashCan\obj\Debug\WorkingTrashCan.pdb
-C:\Users\johan\Desktop\C# Projects\WorkingTrashCan\WorkingTrashCan\WorkingTrashCan.dll
-C:\Users\johan\Desktop\C# Projects\WorkingTrashCan\WorkingTrashCan\WorkingTrashCan.pdb
