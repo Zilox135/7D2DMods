@@ -1,0 +1,6 @@
+C:\Users\Johannes\Desktop\C# Projects\POI Light Enabler\POI Light Enabler\obj\Debug\POI Light Enabler.csproj.AssemblyReference.cache
+C:\Users\Johannes\Desktop\C# Projects\POI Light Enabler\POI Light Enabler\obj\Debug\POI Light Enabler.csproj.CoreCompileInputs.cache
+C:\Users\Johannes\Desktop\C# Projects\POI Light Enabler\POI Light Enabler\obj\Debug\POI Light Enabler.dll
+C:\Users\Johannes\Desktop\C# Projects\POI Light Enabler\POI Light Enabler\obj\Debug\POI Light Enabler.pdb
+C:\Users\Johannes\Desktop\C# Projects\POI Light Enabler\POI Light Enabler\POI Light Enabler.dll
+C:\Users\Johannes\Desktop\C# Projects\POI Light Enabler\POI Light Enabler\POI Light Enabler.pdb

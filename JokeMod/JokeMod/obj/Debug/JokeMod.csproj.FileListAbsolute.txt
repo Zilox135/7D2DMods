@@ -4,5 +4,9 @@ C:\Users\johan\Desktop\C# Projects\JokeMod\JokeMod\obj\Debug\JokeMod.dll
 C:\Users\johan\Desktop\C# Projects\JokeMod\JokeMod\obj\Debug\JokeMod.pdb
 C:\Users\johan\Desktop\C# Projects\JokeMod\JokeMod\JokeMod.dll
 C:\Users\johan\Desktop\C# Projects\JokeMod\JokeMod\JokeMod.pdb
-C:\Users\johan\Desktop\C# Projects\JokeMod\JokeMod\obj\Debug\JokeMod.csproj.CopyComplete
-C:\Users\johan\Desktop\C# Projects\JokeMod\JokeMod\NCalc.dll
+C:\Users\Johannes\Desktop\C# Projects\JokeMod\JokeMod\obj\Debug\JokeMod.csproj.AssemblyReference.cache
+C:\Users\Johannes\Desktop\C# Projects\JokeMod\JokeMod\obj\Debug\JokeMod.csproj.CoreCompileInputs.cache
+C:\Users\Johannes\Desktop\C# Projects\JokeMod\JokeMod\obj\Debug\JokeMod.dll
+C:\Users\Johannes\Desktop\C# Projects\JokeMod\JokeMod\obj\Debug\JokeMod.pdb
+C:\Users\Johannes\Desktop\C# Projects\JokeMod\JokeMod\JokeMod.dll
+C:\Users\Johannes\Desktop\C# Projects\JokeMod\JokeMod\JokeMod.pdb

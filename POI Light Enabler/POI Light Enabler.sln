@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POI Light Enabler", "POI Light Enabler\POI Light Enabler.csproj", "{94BAA600-15CD-4BC3-AAA2-8EAE798496F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94BAA600-15CD-4BC3-AAA2-8EAE798496F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94BAA600-15CD-4BC3-AAA2-8EAE798496F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94BAA600-15CD-4BC3-AAA2-8EAE798496F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94BAA600-15CD-4BC3-AAA2-8EAE798496F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4622206-5526-4081-9823-1AFE331F1A87}
+	EndGlobalSection
+EndGlobal

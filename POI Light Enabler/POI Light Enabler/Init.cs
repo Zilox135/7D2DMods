@@ -2,7 +2,7 @@
 
 namespace Harmony
 {
-    public class JokeModCore : IModApi
+    public class POILightEnabler : IModApi
     {
         public void InitMod(Mod _modInstance)
         {
