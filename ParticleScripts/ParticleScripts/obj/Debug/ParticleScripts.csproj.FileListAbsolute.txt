@@ -1,6 +1,0 @@
-C:\Users\johan\Desktop\C# Projects\ParticleScripts\ParticleScripts\obj\Debug\ParticleScripts.csproj.AssemblyReference.cache
-C:\Users\johan\Desktop\C# Projects\ParticleScripts\ParticleScripts\obj\Debug\ParticleScripts.csproj.CoreCompileInputs.cache
-C:\Users\johan\Desktop\C# Projects\ParticleScripts\ParticleScripts\obj\Debug\ParticleScripts.dll
-C:\Users\johan\Desktop\C# Projects\ParticleScripts\ParticleScripts\obj\Debug\ParticleScripts.pdb
-C:\Users\johan\Desktop\C# Projects\ParticleScripts\ParticleScripts\ParticleScripts.dll
-C:\Users\johan\Desktop\C# Projects\ParticleScripts\ParticleScripts\ParticleScripts.pdb
