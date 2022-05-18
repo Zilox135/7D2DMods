@@ -37,6 +37,7 @@
     <Compile Include="BlockNuke.cs" />
     <Compile Include="BlockPickup.cs" />
     <Compile Include="BlockPickupLoot.cs" />
+    <Compile Include="ConsoleCmdReloadXML.cs" />
     <Compile Include="FxExplosionPack\csLightControl.cs" />
     <Compile Include="Init.cs" />
     <Compile Include="KryptoFX\AddMaterialOnHit.cs" />
@@ -93,12 +94,16 @@
     <Compile Include="UniqueProjectiles\RotateToMouseScript.cs" />
     <Compile Include="UniqueProjectiles\Serializables.cs" />
     <Compile Include="UniqueProjectiles\SpawnProjectilesScript.cs" />
+    <Compile Include="VPAnimal.cs" />
+    <Compile Include="VPAnimator.cs" />
+    <Compile Include="XUiC_PlayerStatsWindow.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="0Harmony">
       <HintPath>..\..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\7 Days To Die\7DaysToDie_Data\Managed\0Harmony.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="Accessibility" />
     <Reference Include="Assembly-CSharp">
       <HintPath>..\..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\7 Days To Die\7DaysToDie_Data\Managed\Assembly-CSharp.dll</HintPath>
       <Private>False</Private>
@@ -112,6 +117,7 @@
       <Private>False</Private>
     </Reference>
     <Reference Include="System" />
+    <Reference Include="System.Xml" />
     <Reference Include="Unity.Postprocessing.Runtime">
       <HintPath>..\..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\7 Days To Die\7DaysToDie_Data\Managed\Unity.Postprocessing.Runtime.dll</HintPath>
       <Private>False</Private>

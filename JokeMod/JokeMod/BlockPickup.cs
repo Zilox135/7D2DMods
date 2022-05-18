@@ -58,6 +58,11 @@ public class BlockPickup : Block
 
 	public void TakeItemWithTimer(int _cIdx, Vector3i _blockPos, BlockValue _blockValue, EntityAlive _player)
 	{
+ 		if (_blockValue.damage > 5)
+		{
+			GameManager.ShowTooltip(_player as EntityPlayerLocal, Localization.Get("ttRepairBeforePickup"), string.Empty, "ui_denied", null);
+			return;
+		}
 		LocalPlayerUI playerUI = (_player as EntityPlayerLocal).PlayerUI;
 		playerUI.windowManager.Open("timer", true, false, true);
 		XUiC_Timer childByType = playerUI.xui.GetChildByType<XUiC_Timer>();
@@ -83,9 +88,15 @@ public class BlockPickup : Block
 		Vector3i vector3i = (Vector3i)array[2];
 		BlockValue block = world.GetBlock(vector3i);
 		EntityPlayerLocal entityPlayerLocal = array[3] as EntityPlayerLocal;
-		if (block.damage > 0)
+		if (block.damage > 5)
 		{
-
+			GameManager.ShowTooltip(entityPlayerLocal, Localization.Get("ttRepairBeforePickup"), string.Empty, "ui_denied", null);
+			return;
+		}
+		if (block.type != blockValue.type)
+		{
+			GameManager.ShowTooltip(entityPlayerLocal, Localization.Get("ttBlockMissingPickup"), string.Empty, "ui_denied", null);
+			return;
 		}
 		LocalPlayerUI uiforPlayer = LocalPlayerUI.GetUIForPlayer(entityPlayerLocal);
 		ItemStack itemStack = new ItemStack(block.ToItemValue(), 1);

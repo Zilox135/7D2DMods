@@ -1,0 +1,6 @@
+C:\Users\johan\Desktop\C# Projects\TE_ObjectManipulator\TE_ObjectManipulator\obj\Debug\TE_ObjectManipulator.csproj.AssemblyReference.cache
+C:\Users\johan\Desktop\C# Projects\TE_ObjectManipulator\TE_ObjectManipulator\obj\Debug\TE_ObjectManipulator.csproj.CoreCompileInputs.cache
+C:\Users\johan\Desktop\C# Projects\TE_ObjectManipulator\TE_ObjectManipulator\obj\Debug\TE_ObjectManipulator.dll
+C:\Users\johan\Desktop\C# Projects\TE_ObjectManipulator\TE_ObjectManipulator\obj\Debug\TE_ObjectManipulator.pdb
+C:\Users\johan\Desktop\C# Projects\TE_ObjectManipulator\TE_ObjectManipulator\TE_ObjectManipulator.dll
+C:\Users\johan\Desktop\C# Projects\TE_ObjectManipulator\TE_ObjectManipulator\TE_ObjectManipulator.pdb

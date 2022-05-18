@@ -12,7 +12,7 @@ public class BlockLightPatch
         static IEnumerable<MethodBase> TargetMethods()
         {
             yield return typeof(BlockLight).GetMethod("GetActivationText");
-            yield return typeof(BlockLight).GetMethod("GetBlockActivationCommands");            
+            yield return typeof(BlockLight).GetMethod("GetBlockActivationCommands");
             yield return typeof(BlockLight).GetMethod("OnBlockActivated", new Type[] { typeof(int), typeof(WorldBase), typeof(int), typeof(Vector3i), typeof(BlockValue), typeof(EntityAlive) });
         }
 

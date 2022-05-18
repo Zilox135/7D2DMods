@@ -1,0 +1,6 @@
+C:\Users\johan\Desktop\C# Projects\District9\District9\obj\Debug\District9.csproj.AssemblyReference.cache
+C:\Users\johan\Desktop\C# Projects\District9\District9\obj\Debug\District9.csproj.CoreCompileInputs.cache
+C:\Users\johan\Desktop\C# Projects\District9\District9\obj\Debug\District9.dll
+C:\Users\johan\Desktop\C# Projects\District9\District9\obj\Debug\District9.pdb
+C:\Users\johan\Desktop\C# Projects\District9\District9\District9.dll
+C:\Users\johan\Desktop\C# Projects\District9\District9\District9.pdb
