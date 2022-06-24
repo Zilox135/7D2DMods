@@ -34,7 +34,7 @@
   <ItemGroup>
     <Compile Include="BlockLightPatch.cs" />
     <Compile Include="BlockRizcoPC.cs" />
-    <Compile Include="BlockNuke.cs" />
+    <Compile Include="BlockMineDiffuse.cs" />
     <Compile Include="BlockPickup.cs" />
     <Compile Include="BlockPickupLoot.cs" />
     <Compile Include="ConsoleCmdReloadXML.cs" />

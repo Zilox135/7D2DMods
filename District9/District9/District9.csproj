@@ -338,6 +338,7 @@
     <Compile Include="ParticleSystemController\SaveParticleSystemScript.cs" />
     <Compile Include="ParticleSystemController\Serializables.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="XUiC_PlayerStatsWindow.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
