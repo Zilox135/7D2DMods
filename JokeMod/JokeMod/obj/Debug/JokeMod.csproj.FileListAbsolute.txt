@@ -10,3 +10,9 @@ C:\Users\Johannes\Desktop\C# Projects\JokeMod\JokeMod\obj\Debug\JokeMod.dll
 C:\Users\Johannes\Desktop\C# Projects\JokeMod\JokeMod\obj\Debug\JokeMod.pdb
 C:\Users\Johannes\Desktop\C# Projects\JokeMod\JokeMod\JokeMod.dll
 C:\Users\Johannes\Desktop\C# Projects\JokeMod\JokeMod\JokeMod.pdb
+C:\Users\johan\OneDrive\Desktop\C# Projects\JokeMod\JokeMod\obj\Debug\JokeMod.csproj.AssemblyReference.cache
+C:\Users\johan\OneDrive\Desktop\C# Projects\JokeMod\JokeMod\obj\Debug\JokeMod.csproj.CoreCompileInputs.cache
+C:\Users\johan\OneDrive\Desktop\C# Projects\JokeMod\JokeMod\obj\Debug\JokeMod.dll
+C:\Users\johan\OneDrive\Desktop\C# Projects\JokeMod\JokeMod\obj\Debug\JokeMod.pdb
+C:\Users\johan\OneDrive\Desktop\C# Projects\JokeMod\JokeMod\JokeMod.dll
+C:\Users\johan\OneDrive\Desktop\C# Projects\JokeMod\JokeMod\JokeMod.pdb
