@@ -32,16 +32,19 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="BlockLightPatch.cs" />
-    <Compile Include="BlockRizcoPC.cs" />
-    <Compile Include="BlockMineDiffuse.cs" />
-    <Compile Include="BlockPickup.cs" />
-    <Compile Include="BlockPickupLoot.cs" />
-    <Compile Include="BlockPowerUp.cs" />
-    <Compile Include="NoTraderProtection_Patch.cs" />
-    <Compile Include="ConsoleCmdReloadXML.cs" />
+    <Compile Include="Harmony\BlockLightPatch.cs" />
+    <Compile Include="Blocks\BlockRizcoPC.cs" />
+    <Compile Include="Blocks\BlockMineDiffuse.cs" />
+    <Compile Include="Blocks\BlockPickup.cs" />
+    <Compile Include="Blocks\BlockPickupLoot.cs" />
+    <Compile Include="Blocks\BlockPowerUp.cs" />
+    <Compile Include="Requirements\HitTransformCompare.cs" />
+    <Compile Include="Harmony\ItemActionRanged_Patch.cs" />
+    <Compile Include="MinEvents\MinEventActionRangedExplosion.cs" />
+    <Compile Include="Harmony\NoTraderProtection_Patch.cs" />
+    <Compile Include="ConsoleCmds\ConsoleCmdReloadXML.cs" />
     <Compile Include="FxExplosionPack\csLightControl.cs" />
-    <Compile Include="Init.cs" />
+    <Compile Include="Harmony\Init.cs" />
     <Compile Include="KryptoFX\AddMaterialOnHit.cs" />
     <Compile Include="KryptoFX\AnimationSpeedDebuff.cs" />
     <Compile Include="KryptoFX\AnimatorBehaviour.cs" />
@@ -96,9 +99,9 @@
     <Compile Include="UniqueProjectiles\RotateToMouseScript.cs" />
     <Compile Include="UniqueProjectiles\Serializables.cs" />
     <Compile Include="UniqueProjectiles\SpawnProjectilesScript.cs" />
-    <Compile Include="VPAnimal.cs" />
-    <Compile Include="VPAnimator.cs" />
-    <Compile Include="XUiC_PlayerStatsWindow.cs" />
+    <Compile Include="Vehicle Parts\VPAnimal.cs" />
+    <Compile Include="Vehicle Parts\VPAnimator.cs" />
+    <Compile Include="XUi Controllers\XUiC_PlayerStatsWindow.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="0Harmony">
@@ -109,12 +112,19 @@
       <HintPath>..\..\..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\7 Days To Die\7DaysToDie_Data\Managed\Assembly-CSharp.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="CustomParticleLoader">
+      <HintPath>..\..\..\..\..\..\..\7D2DModded\JokeMod\Mods\0-CustomParticleLoader\CustomParticleLoader.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="InControl">
       <HintPath>..\..\..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\7 Days To Die\7DaysToDie_Data\Managed\InControl.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="LogLibrary">
       <HintPath>..\..\..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\7 Days To Die\7DaysToDie_Data\Managed\LogLibrary.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Xml">
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.Burst">
@@ -434,5 +444,6 @@
       <Private>False</Private>
     </Reference>
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

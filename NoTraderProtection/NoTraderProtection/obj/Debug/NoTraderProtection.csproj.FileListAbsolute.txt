@@ -1,0 +1,6 @@
+C:\Users\johan\OneDrive\Desktop\C# Projects\NoTraderProtection\NoTraderProtection\obj\Debug\NoTraderProtection.csproj.AssemblyReference.cache
+C:\Users\johan\OneDrive\Desktop\C# Projects\NoTraderProtection\NoTraderProtection\obj\Debug\NoTraderProtection.csproj.CoreCompileInputs.cache
+C:\Users\johan\OneDrive\Desktop\C# Projects\NoTraderProtection\NoTraderProtection\obj\Debug\NoTraderProtection.dll
+C:\Users\johan\OneDrive\Desktop\C# Projects\NoTraderProtection\NoTraderProtection\obj\Debug\NoTraderProtection.pdb
+C:\Users\johan\OneDrive\Desktop\C# Projects\NoTraderProtection\NoTraderProtection\NoTraderProtection.dll
+C:\Users\johan\OneDrive\Desktop\C# Projects\NoTraderProtection\NoTraderProtection\NoTraderProtection.pdb
